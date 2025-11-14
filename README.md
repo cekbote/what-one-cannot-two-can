@@ -11,3 +11,19 @@
     ```bash
     python src/main.py
     ```
+
+
+
+## Cite This Work
+
+
+```bibtex
+@inproceedings{
+  ekbote2025what,
+  title={What One Cannot, Two Can: Two-Layer Transformers Provably Represent Induction Heads on Any-Order Markov Chains},
+  author={Chanakya Ekbote and Ashok Vardhan Makkuva and Marco Bondaschi and Nived Rajaraman and Michael Gastpar and Jason D. Lee and Paul Pu Liang},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025},
+  url={https://openreview.net/forum?id=nYg6Qzm5xS}
+}
+```
