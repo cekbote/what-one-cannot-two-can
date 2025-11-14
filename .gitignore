@@ -1,0 +1,15 @@
+__pycache__/*
+wandb/*
+exps/*
+src/exps/*
+src/__pycache__/*
+src/configs/__pycache__/*
+src/data/__pycache__/*
+src/models/__pycache__/*
+src/utils/__pycache__/*
+src/optim/__pycache__/*
+src/distributed/__pycache__/*
+src/config/__pycache__
+model.pt
+.vscode/*
+src/wandb/*
